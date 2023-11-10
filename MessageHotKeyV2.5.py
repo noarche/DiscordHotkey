@@ -41,8 +41,12 @@ def send_message():
                 time.sleep(0.6)
                 pyautogui.press('enter')
 
-        # Increment the current_number by 1
-        current_number += 1
+            # Increment the current_number by 1
+            current_number += 1
+
+        # Sleep for 5 seconds if repeat message is enabled
+        if repeat_send_var.get():
+            time.sleep(5.0)
 
     # Save the current_number for the next iteration
     send_message.current_number = current_number
@@ -117,3 +121,4 @@ hotkey_label = tk.Label(root, text="Hotkey: not set")
 hotkey_label.pack()
 
 root.mainloop()
+
