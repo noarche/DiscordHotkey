@@ -11,7 +11,8 @@ Run script, type /pick in textbox, set hotkey that you want to use to send comma
 Enter chat, press hotkey when needed. 
 
 
-
+Update V2.5
+  Added repeat send message functionality and message count input. 
 Update V2.0
   enter a number to send in chat on hotkey, check the box. hotkey now sends number, next hotkey press will add 2 and send that number. Good for counting game.
 
