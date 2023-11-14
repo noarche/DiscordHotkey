@@ -12,7 +12,7 @@ Enter chat, press hotkey when needed.
 
 Update V2.8
 
-  Black theme. Added progress bar. Added timeleft for current job. Fixed window size. 
+  Black theme. Added progress bar. Added timeleft for current job. Fixed window size. Made a little faster.
 
 Update V2.5
 
