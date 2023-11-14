@@ -10,6 +10,9 @@ Run script, type /pick in textbox, set hotkey that you want to use to send comma
 
 Enter chat, press hotkey when needed. 
 
+Update V2.8
+
+  Black theme. Added progress bar. Added timeleft for current job. Fixed window size. 
 
 Update V2.5
 
