@@ -2,7 +2,6 @@
 Hotkey a bot command for discord
 
 ![TestCase](https://github.com/noarche/DiscordHotkey/blob/main/Animation.gif?raw=true)
-![noarche's GitHub stats](https://github-readme-stats.vercel.app/api?username=noarche&show_icons=true&theme=transparent)
 
 Example:
 You always type /pick for server interaction in chat, it gets repetative. 
@@ -29,3 +28,23 @@ Easily edit/add variables if you know minimal code, perhaps I will implement int
 
 Guessthenumber.py --- Similar and built in same session... enter range of numbers and you will send random numbers to discord to bruteforce guessthenumber game. 
 
+
+-------------------------------------------------------------------
+
+# ꧁꧂  Buy me a coffee ☕
+
+![qrCode](https://raw.githubusercontent.com/noarche/cd-ripper/main/unrelated-ignore/CryptoQRcodes.png)
+
+**Bitcoin** address `bc1qnpjpacyl9sff6r4kfmn7c227ty9g50suhr0y9j`
+
+
+**Ethereum** address `0x94FcBab18E4c0b2FAf5050c0c11E056893134266`
+
+
+**Litecoin** address `ltc1qu7ze2hlnkh440k37nrm4nhpv2dre7fl8xu0egx`
+
+
+
+-------------------------------------------------------------------
+
+![noarche's GitHub stats](https://github-readme-stats.vercel.app/api?username=noarche&show_icons=true&theme=transparent)
