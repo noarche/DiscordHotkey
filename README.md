@@ -1,7 +1,7 @@
 # DiscordHotkey
 Hotkey a bot command for discord
 
-![TestCase](https://github.com/noarche/DiscordHotkey/blob/main/Animation.gif?raw=true)
+
 
 Example:
 You always type /pick for server interaction in chat, it gets repetative. 
